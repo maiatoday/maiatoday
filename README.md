@@ -3,6 +3,7 @@
 Android Dev
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maiatoday&show_icons=true&count_private=true&theme=)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiatoday&hide=javascript,css&layout=compact)
 
 ![Years Badge](https://badges.pufler.dev/years/maiatoday?style=flat&color=grey)
