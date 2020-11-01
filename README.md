@@ -1,4 +1,5 @@
 @maiatoday on twitter
+![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)
 
 Android Dev
 
