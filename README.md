@@ -2,7 +2,9 @@
 
 
 ![Android weekly 438](https://androidweekly.net/issues/issue-520/badge)
+
 ![Android weekly 438](https://androidweekly.net/issues/issue-516/badge)
+
 ![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)
 
 Android Dev
