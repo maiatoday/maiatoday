@@ -12,7 +12,7 @@
 
 Kotlin weekly
 
-[#385](https://mailchi.mp/kotlinweekly/kotlin-weekly-385)
+[#358](https://mailchi.mp/kotlinweekly/kotlin-weekly-358)
 
 [#300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300)
 
