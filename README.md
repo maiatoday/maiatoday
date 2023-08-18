@@ -1,11 +1,20 @@
 @maiatoday on twitter
 
+![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)
 
-![Android weekly 438](https://androidweekly.net/issues/issue-520/badge)
+![Android weekly 520](https://androidweekly.net/issues/issue-520/badge)
 
-![Android weekly 438](https://androidweekly.net/issues/issue-516/badge)
+![Android weekly 516](https://androidweekly.net/issues/issue-516/badge)
+
+![Android weekly 475](https://androidweekly.net/issues/issue-475/badge)
 
 ![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)
+
+Kotlin weekly
+
+[#385](https://mailchi.mp/kotlinweekly/kotlin-weekly-385)
+
+[#300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300)
 
 Android Dev
 
