@@ -1,5 +1,7 @@
 @maiatoday on twitter
 
+![Android weekly 582](https://androidweekly.net/issues/issue-600/badge)
+
 ![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)
 
 ![Android weekly 520](https://androidweekly.net/issues/issue-520/badge)
