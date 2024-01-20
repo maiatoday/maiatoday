@@ -20,9 +20,9 @@ Kotlin weekly
 
 Android Dev
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=maiatoday&show_icons=true&count_private=true&theme=)
+![Github stats](https://github-readme-stats.vercel.app/api?username=maiatoday&show_icons=true&count_private=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiatoday&hide=javascript,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiatoday&hide=javascript,css&layout=compact&theme=transparent)
 
 ![Years Badge](https://badges.pufler.dev/years/maiatoday?style=flat&color=grey)
 ![Repos Badge](https://badges.pufler.dev/repos/maiatoday?style=flat&color=grey)
