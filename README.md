@@ -28,3 +28,7 @@ Android Dev
 ![Repos Badge](https://badges.pufler.dev/repos/maiatoday?style=flat&color=grey)
 ![Gists Badge](https://badges.pufler.dev/gists/maiatoday?style=flat&color=grey)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/maiatoday?style=flat&color=grey)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
