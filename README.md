@@ -1,6 +1,11 @@
-@maiatoday on twitter
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-# Blog posts
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) @maiatoday
+
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white) maiatoday@androiddev.social
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to build Wrapped 2023 in Compose Animation](https://www.maiatoday.net/p/how-to-build-wrapped-2023-in-compose-animation/)
 - [tfc](https://www.maiatoday.net/tfc/)
@@ -27,7 +32,6 @@ Kotlin weekly
 
 [#300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300)
 
-Android Dev
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maiatoday&show_icons=true&count_private=true&theme=transparent)
 
