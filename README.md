@@ -31,4 +31,9 @@ Android Dev
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build Wrapped 2023 in Compose Animation](https://www.maiatoday.net/p/how-to-build-wrapped-2023-in-compose-animation/)
+- [tfc](https://www.maiatoday.net/tfc/)
+- [I still see LiveData - where are the Flows?](https://www.maiatoday.net/p/i-still-see-livedata-where-are-the-flows/)
+- [Swampy Refactor: Converting Otto Bus to Flows](https://www.maiatoday.net/p/swampy-refactor-converting-otto-bus-to-flows/)
+- [The Imitation Tortoise&#39;s song - a fleety conversion from imperative to functional - Will you join the dance?](https://www.maiatoday.net/p/the-imitation-tortoises-song-a-fleety-conversion-from-imperative-to-functional-will-you-join-the-dance/)
 <!-- BLOG-POST-LIST:END -->
