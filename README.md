@@ -14,6 +14,8 @@
 - [The Imitation Tortoise&#39;s song - a fleety conversion from imperative to functional - Will you join the dance?](https://www.maiatoday.net/p/the-imitation-tortoises-song-a-fleety-conversion-from-imperative-to-functional-will-you-join-the-dance/)
 <!-- BLOG-POST-LIST:END -->
 
+![Android weekly 582](https://androidweekly.net/issues/issue-613/badge)
+
 ![Android weekly 582](https://androidweekly.net/issues/issue-600/badge)
 
 ![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)
