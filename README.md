@@ -14,11 +14,14 @@
 - [Swampy Refactor: Converting Otto Bus to Flows](https://www.maiatoday.net/p/swampy-refactor-converting-otto-bus-to-flows/)
 <!-- BLOG-POST-LIST:END -->
 
-![Android weekly 582](https://androidweekly.net/issues/issue-636/badge)
+![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)
 
-![Android weekly 582](https://androidweekly.net/issues/issue-613/badge)
+<details>
+  <summary>Past Android Weekly features</summary>
 
-![Android weekly 582](https://androidweekly.net/issues/issue-600/badge)
+![Android weekly 613](https://androidweekly.net/issues/issue-613/badge)
+
+![Android weekly 600](https://androidweekly.net/issues/issue-600/badge)
 
 ![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)
 
@@ -29,6 +32,8 @@
 ![Android weekly 475](https://androidweekly.net/issues/issue-475/badge)
 
 ![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)
+
+</details>
 
 Kotlin weekly
 
