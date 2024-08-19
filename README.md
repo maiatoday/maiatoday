@@ -14,6 +14,8 @@
 - [Swampy Refactor: Converting Otto Bus to Flows](https://www.maiatoday.net/p/swampy-refactor-converting-otto-bus-to-flows/)
 <!-- BLOG-POST-LIST:END -->
 
+![Android weekly 582](https://androidweekly.net/issues/issue-636/badge)
+
 ![Android weekly 582](https://androidweekly.net/issues/issue-613/badge)
 
 ![Android weekly 582](https://androidweekly.net/issues/issue-600/badge)
