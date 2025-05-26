@@ -9,11 +9,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About](https://www.maiatoday.net/about/)
 - [Vibecoding a Totoro tribute with Junie](https://www.maiatoday.net/p/vibecoding-a-totoro-tribute-with-junie/)
 - [Flash cards for Coroutines - KotlinFlashKards](https://www.maiatoday.net/p/flash-cards-for-coroutines-kotlinflashkards/)
 - [50 ways to run some Kotlin code](https://www.maiatoday.net/p/50-ways-to-run-some-kotlin-code/)
 - [How to build Wrapped 2023 in Compose Animation](https://www.maiatoday.net/p/how-to-build-wrapped-2023-in-compose-animation/)
-- [tfc](https://www.maiatoday.net/tfc/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)
