@@ -1,7 +1,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[Advent of Code 2024](https://github.com/maiatoday/aoc/tree/AoC2024)
+[Advent of Code](https://github.com/maiatoday/aoc)
 
 ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white) [@maiatoday.net](https://bsky.app/profile/maiatoday.net)
 
@@ -54,4 +54,5 @@ Kotlin weekly
 ![Repos Badge](https://badges.pufler.dev/repos/maiatoday?style=flat&color=grey)
 ![Gists Badge](https://badges.pufler.dev/gists/maiatoday?style=flat&color=grey)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/maiatoday?style=flat&color=grey)
+
 
