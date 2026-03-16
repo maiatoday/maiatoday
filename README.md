@@ -16,10 +16,12 @@
 - [Vibecoding a Totoro tribute with Junie](https://www.maiatoday.net/p/vibecoding-a-totoro-tribute-with-junie/)
 <!-- BLOG-POST-LIST:END -->
 
-![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)
+![Android weekly 636](https://androidweekly.net/issues/issue-718/badge)
 
 <details>
   <summary>Past Android Weekly features</summary>
+  
+![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)
 
 ![Android weekly 613](https://androidweekly.net/issues/issue-613/badge)
 
