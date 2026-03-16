@@ -16,26 +16,26 @@
 - [Vibecoding a Totoro tribute with Junie](https://www.maiatoday.net/p/vibecoding-a-totoro-tribute-with-junie/)
 <!-- BLOG-POST-LIST:END -->
 
-![Android weekly 636](https://androidweekly.net/issues/issue-718/badge)
+[![Android weekly 636](https://androidweekly.net/issues/issue-718/badge)](https://androidweekly.net/issues/issue-718)
 
 <details>
   <summary>Past Android Weekly features</summary>
   
-![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)
+[![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)](https://androidweekly.net/issues/issue-636)
 
-![Android weekly 613](https://androidweekly.net/issues/issue-613/badge)
+[![Android weekly 613](https://androidweekly.net/issues/issue-613/badge)](https://androidweekly.net/issues/issue-613)
 
-![Android weekly 600](https://androidweekly.net/issues/issue-600/badge)
+[![Android weekly 600](https://androidweekly.net/issues/issue-600/badge)](https://androidweekly.net/issues/issue-600)
 
-![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)
+[![Android weekly 582](https://androidweekly.net/issues/issue-582/badge)](https://androidweekly.net/issues/issue-582)
 
-![Android weekly 520](https://androidweekly.net/issues/issue-520/badge)
+[![Android weekly 520](https://androidweekly.net/issues/issue-520/badge)](https://androidweekly.net/issues/issue-520)
 
-![Android weekly 516](https://androidweekly.net/issues/issue-516/badge)
+[![Android weekly 516](https://androidweekly.net/issues/issue-516/badge)](https://androidweekly.net/issues/issue-516)
 
-![Android weekly 475](https://androidweekly.net/issues/issue-475/badge)
+[![Android weekly 475](https://androidweekly.net/issues/issue-475/badge)](https://androidweekly.net/issues/issue-475)
 
-![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)
+[![Android weekly 438](https://androidweekly.net/issues/issue-438/badge)](https://androidweekly.net/issues/issue-438)
 
 </details>
 
