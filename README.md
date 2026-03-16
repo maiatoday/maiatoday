@@ -3,9 +3,9 @@
 
 [Advent of Code](https://github.com/maiatoday/aoc)
 
-![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white) [@maiatoday.net](https://bsky.app/profile/maiatoday.net)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/maiatoday.net)
 
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white) [maiatoday on Mastodon](https://androiddev.social/@maiatoday)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://androiddev.social/@maiatoday)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
