@@ -1,11 +1,10 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[Advent of Code](https://github.com/maiatoday/aoc)
-
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/maiatoday.net)
-
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://androiddev.social/@maiatoday)
+
+[Advent of Code](https://github.com/maiatoday/aoc)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
