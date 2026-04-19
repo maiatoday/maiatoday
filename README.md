@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Android CLI meet Gemini CLI](https://www.maiatoday.net/p/android-cli-meet-gemini-cli/)
 - [Android ❤️ Gemini CLI - tech debt detection Code Maat skill](https://www.maiatoday.net/p/android-%EF%B8%8F-gemini-cli-tech-debt-detection-code-maat-skill/)
 - [From CLI to CLI - Gemini and Obsidian](https://www.maiatoday.net/p/from-cli-to-cli-gemini-and-obsidian/)
 - [Is it vaporwave? - Compose Hot reload](https://www.maiatoday.net/p/is-it-vaporwave-compose-hot-reload/)
 - [About](https://www.maiatoday.net/about/)
-- [Vibecoding a Totoro tribute with Junie](https://www.maiatoday.net/p/vibecoding-a-totoro-tribute-with-junie/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Android weekly 636](https://androidweekly.net/issues/issue-718/badge)](https://androidweekly.net/issues/issue-718)
