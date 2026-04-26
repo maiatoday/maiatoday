@@ -15,10 +15,12 @@
 - [About](https://www.maiatoday.net/about/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Android weekly 636](https://androidweekly.net/issues/issue-718/badge)](https://androidweekly.net/issues/issue-718)
+[![Android weekly 724](https://androidweekly.net/issues/issue-724/badge)](https://androidweekly.net/issues/issue-724)
 
 <details>
   <summary>Past Android Weekly features</summary>
+
+[![Android weekly 718](https://androidweekly.net/issues/issue-718/badge)](https://androidweekly.net/issues/issue-718)
   
 [![Android weekly 636](https://androidweekly.net/issues/issue-636/badge)](https://androidweekly.net/issues/issue-636)
 
