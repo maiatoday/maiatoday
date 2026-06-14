@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Antigravity TagSpotter - KotlinMultiPlatform evolve](https://www.maiatoday.net/p/antigravity-tagspotter-kotlinmultiplatform-evolve/)
 - [Antigravity 2.0 vs Android Studio - making TagSpotter](https://www.maiatoday.net/p/antigravity-2.0-vs-android-studio-making-tagspotter/)
 - [Android CLI meet Gemini CLI](https://www.maiatoday.net/p/android-cli-meet-gemini-cli/)
 - [Android ❤️ Gemini CLI - tech debt detection Code Maat skill](https://www.maiatoday.net/p/android-%EF%B8%8F-gemini-cli-tech-debt-detection-code-maat-skill/)
 - [From CLI to CLI - Gemini and Obsidian](https://www.maiatoday.net/p/from-cli-to-cli-gemini-and-obsidian/)
-- [Is it vaporwave? - Compose Hot reload](https://www.maiatoday.net/p/is-it-vaporwave-compose-hot-reload/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Android weekly 724](https://androidweekly.net/issues/issue-724/badge)](https://androidweekly.net/issues/issue-724)
