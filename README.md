@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI workflow demo - create a skill with evals in antigravity](https://www.maiatoday.net/p/ai-workflow-skills-evals/)
 - [AI workways for a happy brain](https://www.maiatoday.net/p/ai-workways-for-a-happy-brain/)
 - [Antigravity TagSpotter - Share data with Firebase](https://www.maiatoday.net/p/antigravity-tagspotter-share-data-with-firebase/)
 - [Antigravity TagSpotter - KotlinMultiPlatform evolve](https://www.maiatoday.net/p/antigravity-tagspotter-kotlinmultiplatform-evolve/)
 - [Antigravity 2.0 vs Android Studio - making TagSpotter](https://www.maiatoday.net/p/antigravity-2.0-vs-android-studio-making-tagspotter/)
-- [Android CLI meet Gemini CLI](https://www.maiatoday.net/p/android-cli-meet-gemini-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Android weekly 724](https://androidweekly.net/issues/issue-724/badge)](https://androidweekly.net/issues/issue-724)
